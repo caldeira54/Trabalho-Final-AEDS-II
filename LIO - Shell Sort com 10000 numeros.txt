@@ -1,0 +1,11 @@
+Shell Sort : Tempo decorrido : 0,002000  Comparações : 128957,000000
+Shell Sort : Tempo decorrido : 0,003000  Comparações : 128957,000000
+Shell Sort : Tempo decorrido : 0,003000  Comparações : 128957,000000
+Shell Sort : Tempo decorrido : 0,003000  Comparações : 128957,000000
+Shell Sort : Tempo decorrido : 0,003000  Comparações : 128957,000000
+Shell Sort : Tempo decorrido : 0,003000  Comparações : 128957,000000
+Shell Sort : Tempo decorrido : 0,003000  Comparações : 128957,000000
+Shell Sort : Tempo decorrido : 0,004000  Comparações : 128957,000000
+Shell Sort : Tempo decorrido : 0,002000  Comparações : 128957,000000
+Shell Sort : Tempo decorrido : 0,003000  Comparações : 128957,000000
+

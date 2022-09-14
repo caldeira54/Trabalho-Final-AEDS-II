@@ -1,0 +1,10 @@
+Insertion Sort : Tempo decorrido : 0,008000  Comparações : 500499
+Insertion Sort : Tempo decorrido : 0,007000  Comparações : 500499
+Insertion Sort : Tempo decorrido : 0,008000  Comparações : 500499
+Insertion Sort : Tempo decorrido : 0,009000  Comparações : 500499
+Insertion Sort : Tempo decorrido : 0,009000  Comparações : 500499
+Insertion Sort : Tempo decorrido : 0,008000  Comparações : 500499
+Insertion Sort : Tempo decorrido : 0,007000  Comparações : 500499
+Insertion Sort : Tempo decorrido : 0,008000  Comparações : 500499
+Insertion Sort : Tempo decorrido : 0,009000  Comparações : 500499
+Insertion Sort : Tempo decorrido : 0,009000  Comparações : 500499

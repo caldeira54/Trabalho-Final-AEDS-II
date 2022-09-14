@@ -1,0 +1,11 @@
+Merge Sort : Tempo decorrido : 0,193000  Comparações : 1768946
+Merge Sort : Tempo decorrido : 0,171000  Comparações : 1768946
+Merge Sort : Tempo decorrido : 0,192000  Comparações : 1768946
+Merge Sort : Tempo decorrido : 0,192000  Comparações : 1768946
+Merge Sort : Tempo decorrido : 0,196000  Comparações : 1768946
+Merge Sort : Tempo decorrido : 0,186000  Comparações : 1768946
+Merge Sort : Tempo decorrido : 0,193000  Comparações : 1768946
+Merge Sort : Tempo decorrido : 0,179000  Comparações : 1768946
+Merge Sort : Tempo decorrido : 0,187000  Comparações : 1768946
+Merge Sort : Tempo decorrido : 0,179000  Comparações : 1768946
+Merge Sort : Tempo decorrido : 0,123000  Comparações : 1768946

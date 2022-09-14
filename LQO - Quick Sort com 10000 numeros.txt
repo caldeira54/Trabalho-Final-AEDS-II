@@ -1,0 +1,10 @@
+Quick Sort : Tempo decorrido : 0,001000  Comparações : 15819
+Quick Sort : Tempo decorrido : 0,001000  Comparações : 15820
+Quick Sort : Tempo decorrido : 0,002000  Comparações : 15820
+Quick Sort : Tempo decorrido : 0,001000  Comparações : 15820
+Quick Sort : Tempo decorrido : 0,002000  Comparações : 15820
+Quick Sort : Tempo decorrido : 0,001000  Comparações : 15820
+Quick Sort : Tempo decorrido : 0,001000  Comparações : 15820
+Quick Sort : Tempo decorrido : 0,001000  Comparações : 15820
+Quick Sort : Tempo decorrido : 0,002000  Comparações : 15820
+Quick Sort : Tempo decorrido : 0,001000  Comparações : 15820

@@ -1,0 +1,15 @@
+Bubble Sort : Tempo decorrido : 0,012000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,010000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,013000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,012000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,011000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,011000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,011000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,012000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,015000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,011000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 1,503000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,536000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,527000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 1,244000  Comparações : 499247
+Bubble Sort : Tempo decorrido : 0,011000  Comparações : 499247

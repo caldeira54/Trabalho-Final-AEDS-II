@@ -1,0 +1,11 @@
+Bubble Sort : Tempo decorrido : 94,832000  Comparações : 702640174
+Bubble Sort : Tempo decorrido : 89,956000  Comparações : 702640174
+Bubble Sort : Tempo decorrido : 111,407000  Comparações : 702640174
+Bubble Sort : Tempo decorrido : 98,074000  Comparações : 702640174
+Bubble Sort : Tempo decorrido : 93,744000  Comparações : 702640174
+Bubble Sort : Tempo decorrido : 92,880000  Comparações : 702640174
+Bubble Sort : Tempo decorrido : 96,068000  Comparações : 702640174
+Bubble Sort : Tempo decorrido : 110,879000  Comparações : 702640174
+Bubble Sort : Tempo decorrido : 97,485000  Comparações : 702640174
+Bubble Sort : Tempo decorrido : 98,589000  Comparações : 702640174
+Bubble Sort : Tempo decorrido : 141,041000  Comparações : 702640174

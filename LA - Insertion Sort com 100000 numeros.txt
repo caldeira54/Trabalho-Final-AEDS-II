@@ -1,0 +1,11 @@
+Insertion Sort : Tempo decorrido : 59,272000  Comparações : 2469323313
+Insertion Sort : Tempo decorrido : 48,838000  Comparações : 2469323313
+Insertion Sort : Tempo decorrido : 61,910000  Comparações : 2469323313
+Insertion Sort : Tempo decorrido : 88,129000  Comparações : 2469323313
+Insertion Sort : Tempo decorrido : 47,390000  Comparações : 2469323313
+Insertion Sort : Tempo decorrido : 57,596000  Comparações : 2469323313
+Insertion Sort : Tempo decorrido : 55,545000  Comparações : 2469323313
+Insertion Sort : Tempo decorrido : 57,642000  Comparações : 2469323313
+Insertion Sort : Tempo decorrido : 56,174000  Comparações : 2469323313
+Insertion Sort : Tempo decorrido : 57,814000  Comparações : 2469323313
+Insertion Sort : Tempo decorrido : 75,454000  Comparações : 2469323313

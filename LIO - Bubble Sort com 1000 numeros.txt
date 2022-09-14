@@ -1,0 +1,10 @@
+Bubble Sort : Tempo decorrido : 0,013000  Comparações : 499500
+Bubble Sort : Tempo decorrido : 0,013000  Comparações : 499500
+Bubble Sort : Tempo decorrido : 0,017000  Comparações : 499500
+Bubble Sort : Tempo decorrido : 0,013000  Comparações : 499500
+Bubble Sort : Tempo decorrido : 0,015000  Comparações : 499500
+Bubble Sort : Tempo decorrido : 0,014000  Comparações : 499500
+Bubble Sort : Tempo decorrido : 0,014000  Comparações : 499500
+Bubble Sort : Tempo decorrido : 0,014000  Comparações : 499500
+Bubble Sort : Tempo decorrido : 0,015000  Comparações : 499500
+Bubble Sort : Tempo decorrido : 0,014000  Comparações : 499500

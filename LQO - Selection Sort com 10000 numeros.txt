@@ -1,0 +1,10 @@
+Selection Sort : Tempo decorrido : 0,665000  Comparações : 49995000
+Selection Sort : Tempo decorrido : 0,648000  Comparações : 49995000
+Selection Sort : Tempo decorrido : 0,777000  Comparações : 49995000
+Selection Sort : Tempo decorrido : 0,743000  Comparações : 49995000
+Selection Sort : Tempo decorrido : 0,648000  Comparações : 49995000
+Selection Sort : Tempo decorrido : 0,683000  Comparações : 49995000
+Selection Sort : Tempo decorrido : 0,654000  Comparações : 49995000
+Selection Sort : Tempo decorrido : 0,661000  Comparações : 49995000
+Selection Sort : Tempo decorrido : 0,691000  Comparações : 49995000
+Selection Sort : Tempo decorrido : 0,657000  Comparações : 49995000
